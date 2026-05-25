@@ -53,8 +53,9 @@ streamlit run app.py
 Then open the local URL shown in terminal (usually `http://localhost:8501`).
 
 ## Output
-![alt text](image.png)
-![alt text](image-1.png)
+![Bitcoin Trend](outputs/image.png)
+
+![Price Distribution](outputs/image-1.png)
 
 ## Notes
 
