@@ -52,6 +52,10 @@ streamlit run app.py
 
 Then open the local URL shown in terminal (usually `http://localhost:8501`).
 
+## Output
+![alt text](image.png)
+![alt text](image-1.png)
+
 ## Notes
 
 - This is a simple educational model, not financial advice.
